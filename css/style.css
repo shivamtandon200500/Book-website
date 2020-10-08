@@ -14,7 +14,7 @@ section {
   --Lobster: "lobster", cursive;
   --light-black: #2e2c2caf;
   --bggradient: linear-gradient(to bottom, #dd2476, #ff512f);
-  --light-gray: rgba(360, 255, 255, 0.877);
+  --light-gray: rgba(360, 260, 260, 0.877);
 }
 
 header a {
@@ -28,7 +28,7 @@ header a {
   position: absolute;
   background-color: #f1f1f1;
   min-width: 160px;
-  box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 
