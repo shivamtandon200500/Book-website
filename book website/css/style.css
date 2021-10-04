@@ -23,6 +23,12 @@ header a {
   color: whitesmoke;
 }
 
+hover:header a {
+ 
+  font-size: 0.9em;
+  color: grey;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
