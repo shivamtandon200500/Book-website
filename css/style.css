@@ -1,4 +1,6 @@
 * {
+  padding:0;
+  margin:0;
   box-sizing: border-box;
 }
 
@@ -222,10 +224,10 @@ header .container .col-md-7 p {
 .cards .title {
   background: rgba(208, 241, 241, 0.199);
   padding: 1.4em 2.5em;
-  font-size: 2vmin;
+  font-size: 2.1vmin;
 }
 .card .card-text {
-  padding: 2.5rem 3rem;
+  padding: 2.4rem 3rem;
   color: var(--light-black);
 }
 
@@ -242,7 +244,7 @@ header .container .col-md-7 p {
 /* Section 3 */
 
 .section-3 {
-  height: 70vmin;
+  height: 69vmin;
   margin-top: 15vmin;
   background: var(--bggradient);
 }
